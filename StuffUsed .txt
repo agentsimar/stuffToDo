@@ -1,0 +1,11 @@
+PayUMoney
+picasso for image
+digital ocean searver to fetch photos
+mikepenz library for navigation drawer
+firebase to save users data and authentication
+dialogflow bot for basic inquiries
+gmailBackgroundLibrary for email courtesy of luongvo(github repo)
+material design used for snackbar
+
+digital ocean server:- abhinavhanda.me/images/img
+
