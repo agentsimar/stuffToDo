@@ -3,8 +3,7 @@ catagories- to be desided
 content(email) - gursimran,locate us
 login with google - simar try
 notification - simar try
-merge with child - basra
-
+confirmation mail-basra
 
 ------------------------------------
 inquiry bot
