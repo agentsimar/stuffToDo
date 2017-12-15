@@ -1,9 +1,10 @@
-search
-catagories
-navigation
+search - To be decided
+catagories- to be desided
 content(email) - gursimran,locate us
-login with google
-notification
+login with google - simar try
+notification - simar try
+merge with child - basra
+
 
 ------------------------------------
 inquiry bot
@@ -13,5 +14,6 @@ email- dudestylish16@gmail.com or tomsmith20@myself.com
 helpline phone number:- 9569794546 or 9914861333
 order pick-up point:- our only pick up point is in ludhiana. address here
 you can find the map in location option.
+test
 
 
